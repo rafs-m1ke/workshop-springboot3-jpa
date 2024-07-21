@@ -14,6 +14,8 @@
  
 <img src="diagram.png">
 
+## 👉 [Swagger em Produção](https://workshop-springboot3-jpa-production-a597.up.railway.app/swagger-ui/index.html)
+
  ## 💻 Tecnologias utilizadas
  - Spring Boot 3
  - JPA
