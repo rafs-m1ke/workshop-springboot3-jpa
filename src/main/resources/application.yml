@@ -1,0 +1,7 @@
+spring:
+  jpa:
+    open-in-view: 'true'
+  application:
+    name: api
+  profiles:
+    active: prod

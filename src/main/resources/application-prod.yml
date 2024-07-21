@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://postgres:PnKBHUoXaZkPauQlTTrvQWFhorShjegV@postgres.railway.internal:5432/railway
+  jpa:
+    properties:
+      hibernate:
+        format_sql: 'false'
+    hibernate:
+      ddl-auto: none
+    show-sql: 'false'
