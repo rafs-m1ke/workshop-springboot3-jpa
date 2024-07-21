@@ -10,7 +10,7 @@
 </p>
 
 
-> Este projeto foi desenvolvido em um ambiente de estudo, abordando conceitos de gerenciamento de usuãrios, pedidos e produtos.
+> Este projeto foi desenvolvido em um ambiente de estudo, abordando conceitos de gerenciamento de usuários, pedidos e produtos.
  
 <img src="diagram.png">
 
@@ -46,7 +46,7 @@ cd workshop-springboot3-jpa
 mvn spring-boot:run
 ```
 
-A partir do endereço `localhost:8080` (Postman - Insomnia) ou `localhost:8080/swagger-ui.html` (Swagger), ẽ possivel executar os testes.
+A partir do endereço `localhost:8080` (Postman - Insomnia) ou `localhost:8080/swagger-ui.html` (Swagger), é possivel executar os testes.
 
 
 
